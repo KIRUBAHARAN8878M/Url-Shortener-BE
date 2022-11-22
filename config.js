@@ -1,1 +1,1 @@
-module.exports = 'https://pvly.herokuapp.com' 
+module.exports = 'https://url-shortner-kiru-app.herokuapp.com' 
